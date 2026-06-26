@@ -14,13 +14,14 @@ Official logos for the **go-coff** organization.
 - **GitHub avatar** 512 px — `avatar/`
 - **Social preview** 1280×640 (repo banner) — `social/`
 
-## Repos (3)
+## Repos (4)
 
 | | repo |
 |---|---|
-| <img src="avatar/go-coff-coff.png" width="48"> | `coff` |
-| <img src="avatar/go-coff-pe.png" width="48"> | `pe` |
-| <img src="avatar/go-coff-xcoff.png" width="48"> | `xcoff` |
+| <img src="avatar/go-coff-efipack.png" width="48"> | `efipack` |
+| <img src="avatar/go-coff-pectl.png" width="48"> | `pectl` |
+| <img src="avatar/go-coff-peln.png" width="48"> | `peln` |
+| <img src="avatar/go-coff-stub.png" width="48"> | `stub` |
 
 ---
 *Auto-generated assets — rounded square badge, line glyph, color / white / black variants.*
